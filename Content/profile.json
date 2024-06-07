@@ -1,42 +1,42 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Joyce H Tang",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Joyce Tang. I'm passionate about coding and game development, immersing myself in the captivating world of computer science. I aim to work in a technology environment where I can help people further computer development. I also love languages, speaking English and Mandarin fluently and learning Japanese."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
+  "EMail": "tangj3@spu.edu",
   "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "Portfolio": "https://joyce6288.github.io/",
+  "LinkedIn": "www.linkedin.com/in/joycehtang",
+  "GitHub": "https://github.com/joyce6288"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "From my early days in Shanghai, diving into the intricacies of programming, to embracing the vibrant tech scene in Seattle, my journey in computer science has been nothing short of exhilarating. <br><br>At Seattle Pacific University, where I'm honing my skills with a targeted graduation date of June 2025, I've not only mastered the theoretical aspects of my field but also actively engaged in practical applications that impact real-world problems",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Graduation": "June 2025",
+  "EducationText": "Attending Seattle Pacific University has been a transformative experience. Enrolled in the Computer Science program, I'm on track to graduate in June 2025. This program isn't just about learning; it's about applying what we learn in real-time. I've thrived in this rigorous environment, tackling complex algorithms and systems, and pushing the boundaries of software development.",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EmploymentText": "As a student worker at Seattle Pacific University, I have the unique opportunity to bridge the gap between learning and real-world application. My role allows me to collaborate with faculty and peers on diverse IT projects, from system updates to network security, ensuring a robust technological framework that supports the university's academic mission",
+  "Role":"Stuednt",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "SkillsText": "My technical toolkit is loaded with languages and frameworks crucial for both front-end and backend development. With advanced skills in C++, JavaScript, and Node.js, complemented by my knowledge of CSS and HTML, I design and develop seamless, scalable applications. These skills are continuously refined through both academic projects and practical implementations at my job at the university.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
+    "Title": "Web Crawler JS",
     "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "https://github.com/joyce6288/Web-Crawler_JS/tree/main",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Graph Algorithm",
+    "Desc": "A web crawler application that creates web-link graphs and finds the Closeness Centrality for each node.<br><br>In today's digital world, there's a growing need for tools that help us understand and navigate the complex connections of the internet. This project aims to create a comprehensive web crawling and analysis tool using JavaScript and Node.js. The primary goal is to gather information from web pages, visualize the connections between them, and analyze the structure of the web graph to identify key pages based on centrality measures.",
+    "GitHubRepo": "https://github.com/joyce6288/Graph-Algorithm",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
